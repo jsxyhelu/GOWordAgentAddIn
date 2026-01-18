@@ -34,6 +34,7 @@ GOWordAgentAddIn 是一个用于 Microsoft Word 的 Add-In，集成了 AI 校对功能。它会将
 ]
 ```
 
-许可
 
-本项目为示例代码，请根据需要调整并遵守使用的第三方库许可。
+设计文档：https://uh9iow7vir.feishu.cn/wiki/U8Dpwc2NWie8J3kH2FNcahuinab?from=from_copylink
+
+开发手札：https://www.cnblogs.com/jsxyhelu/p/19497787
